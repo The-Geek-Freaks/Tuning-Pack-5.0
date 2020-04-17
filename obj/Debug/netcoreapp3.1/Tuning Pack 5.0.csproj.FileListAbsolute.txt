@@ -1,0 +1,19 @@
+D:\Git\Tuning-Pack-5.0\bin\Debug\netcoreapp3.1\Tuning Pack 5.0.exe
+D:\Git\Tuning-Pack-5.0\bin\Debug\netcoreapp3.1\Tuning Pack 5.0.deps.json
+D:\Git\Tuning-Pack-5.0\bin\Debug\netcoreapp3.1\Tuning Pack 5.0.runtimeconfig.json
+D:\Git\Tuning-Pack-5.0\bin\Debug\netcoreapp3.1\Tuning Pack 5.0.runtimeconfig.dev.json
+D:\Git\Tuning-Pack-5.0\bin\Debug\netcoreapp3.1\Tuning Pack 5.0.dll
+D:\Git\Tuning-Pack-5.0\bin\Debug\netcoreapp3.1\Tuning Pack 5.0.pdb
+D:\Git\Tuning-Pack-5.0\obj\Debug\netcoreapp3.1\Tuning Pack 5.0.csprojAssemblyReference.cache
+D:\Git\Tuning-Pack-5.0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Git\Tuning-Pack-5.0\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Git\Tuning-Pack-5.0\obj\Debug\netcoreapp3.1\Tuning Pack 5.0_MarkupCompile.cache
+D:\Git\Tuning-Pack-5.0\obj\Debug\netcoreapp3.1\Tuning Pack 5.0_MarkupCompile.lref
+D:\Git\Tuning-Pack-5.0\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Git\Tuning-Pack-5.0\obj\Debug\netcoreapp3.1\Tuning Pack 5.0.g.resources
+D:\Git\Tuning-Pack-5.0\obj\Debug\netcoreapp3.1\Tuning Pack 5.0.csproj.CoreCompileInputs.cache
+D:\Git\Tuning-Pack-5.0\obj\Debug\netcoreapp3.1\Tuning Pack 5.0.AssemblyInfoInputs.cache
+D:\Git\Tuning-Pack-5.0\obj\Debug\netcoreapp3.1\Tuning Pack 5.0.AssemblyInfo.cs
+D:\Git\Tuning-Pack-5.0\obj\Debug\netcoreapp3.1\Tuning Pack 5.0.dll
+D:\Git\Tuning-Pack-5.0\obj\Debug\netcoreapp3.1\Tuning Pack 5.0.pdb
+D:\Git\Tuning-Pack-5.0\obj\Debug\netcoreapp3.1\Tuning Pack 5.0.genruntimeconfig.cache
